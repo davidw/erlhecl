@@ -6,3 +6,8 @@ interpreted language that runs on top of Erlang, with a simple syntax.
 
 I later went on to create Hecl for small-footprint Java, here: http://www.hecl.org
 
+To run the sample code:
+
+    c(hecl).
+    c(hecl_procs).
+    hecl:test().
