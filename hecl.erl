@@ -3,7 +3,8 @@
 %%% Author  : David N. Welton <davidw@dedasys.com>
 %%% Description : A small, extensible Tcl-like language interpreter.
 %%%
-%%%
+%%% Copyright 2014 David N. Welton
+
 
 -module(hecl).
 -export([parse/1, make_interp/0, del_interp/1, test/0, parsetest/0,
